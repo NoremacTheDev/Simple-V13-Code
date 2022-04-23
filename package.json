@@ -1,0 +1,14 @@
+{
+  "name": "djsv13starter",
+  "version": "1.0.0",
+  "description": "I made this because I was bored and need something to do",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noremac",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
